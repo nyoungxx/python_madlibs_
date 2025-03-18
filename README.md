@@ -2,7 +2,6 @@
 I chose  the **Randomized Story Templates:**  
    - **Objective:** Create at least two or three different story templates and use Python’s `random` module to select one at runtime.  
    - **Challenge:** Experiment with different story structures so that every run might yield a different narrative style.
-   - 
   The random function creates a unique story each time you run it.It has several pre-made story outlines also known as templates.
 It randomly picks one of these outlines.
 It then randomly fills in the blanks of that outline with words and phrases from lists it has.
